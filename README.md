@@ -69,8 +69,15 @@ brew install --cask visual-studio-code
 vscie esbenp.prettier-vscode
 vscie dbaeumer.vscode-eslint
 vscie eamodio.gitlens
-vscie Orta.vscode-jest
 vscie EditorConfig.EditorConfig
+vscie Prisma.prisma
+vscie WallabyJs.quokka-vscode
+
+## if you have wallaby license
+vscie WallabyJs.wallaby-vscode
+
+## in case you don't have wallaby license
+vscie Orta.vscode-jest
 ```
 
 ## GitHub Authentication
