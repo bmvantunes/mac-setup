@@ -16,8 +16,6 @@ Now follow the instructions to add homebrew to the path!
 brew doctor
 ```
 
-You can also make iTerm2 the default if you prefer iTerm
-
 ## Install latest version of Git
 ```sh
 brew install git
@@ -51,6 +49,8 @@ brew install --cask google-chrome
 brew install --cask iterm2
 ```
 
+You can also make iTerm2 the default if you prefer iTerm
+
 ### Open iTerm and paste
 ```sh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -81,6 +81,14 @@ vscie Orta.vscode-jest
 ```
 
 ## GitHub Authentication
+
+```sh
+git config --global user.name "Bruno Antunes"
+```
+
+```sh
+git config --global user.email "bmvantunes@users.noreply.github.com"
+```
 
 ### Create SSH key
 ```sh
@@ -144,4 +152,9 @@ export GPG_TTY=$(tty)
 
 ```sh
 git config --global commit.gpgsign true
+```
+
+Only in case you want to change the last commit, because you committed it with wrong config:
+```sh
+git commit --amend --author="Bruno Antunes <bmvantunes@users.noreply.github.com>"
 ```
