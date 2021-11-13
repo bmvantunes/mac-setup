@@ -49,6 +49,14 @@ brew install --cask google-chrome
 brew install --cask iterm2
 ```
 
+## Install Rectangle
+### rectangle will allow you to snap windows to the sides like on windows!
+```sh
+brew install --cask rectangle
+```
+
+Please now open the application and it will request some permissions :)
+
 You can also make iTerm2 the default if you prefer iTerm
 
 ### Open iTerm and paste
