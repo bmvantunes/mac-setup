@@ -91,7 +91,7 @@ vscie Orta.vscode-jest
 
 ## Install Docker
 ```sh
-brew install --cask docker
+https://docs.docker.com/desktop/mac/install/
 ```
 
 ## GitHub Authentication
