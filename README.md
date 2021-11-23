@@ -89,6 +89,11 @@ vscie WallabyJs.wallaby-vscode
 vscie Orta.vscode-jest
 ```
 
+## Install Docker
+```sh
+brew install docker
+```
+
 ## GitHub Authentication
 
 ```sh
