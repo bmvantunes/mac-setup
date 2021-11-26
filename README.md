@@ -124,7 +124,7 @@ brew install gnupg
 ```
 
 my email address will be: bmvantunes@users.noreply.github.com
-Generate GPG Key:
+Generate GPG Key using the defaults:
 ```sh
 gpg --full-generate-key
 ```
