@@ -11,7 +11,7 @@ softwareupdate --all --install --force
 ```
 Now follow the instructions to add homebrew to the path!
 
-## Make sure Homebrew is correctly installed
+## Make sure Homebrew is correctly installed in your computer
 ```sh
 brew doctor
 ```
