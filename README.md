@@ -89,6 +89,11 @@ vscie WallabyJs.wallaby-vscode
 vscie Orta.vscode-jest
 ```
 
+## Install [responsively](https://responsively.app/)
+```sh
+brew install --cask responsively
+```
+
 ## Install Docker
 ```sh
 https://docs.docker.com/desktop/mac/install/
@@ -156,12 +161,7 @@ git config --global user.signingkey 3AA5C34371567BD2
 ```
 
 ```sh
-if [ -r ~/.zshrc ]; then echo 'export GPG_TTY=$(tty)' >> ~/.zshrc; \
-  else echo 'export GPG_TTY=$(tty)' >> ~/.zprofile; fi
-
-or
-
-export GPG_TTY=$(tty)
+if [ -r ~/.zshrc ]; then echo 'export GPG_TTY=$(tty)' >> ~/.zshrc; else echo 'export GPG_TTY=$(tty)' >> ~/.zprofile; fi
 ```
 
 ```sh
