@@ -172,3 +172,8 @@ Only in case you want to change the last commit, because you committed it with w
 ```sh
 git commit --amend --author="Bruno Antunes <bmvantunes@users.noreply.github.com>"
 ```
+
+If you are prompted for the password all the time, follow this:
+```
+https://gist.github.com/bmvantunes/a2ec9e7f63240509a35b033177a138c2
+```
