@@ -129,7 +129,7 @@ Generate GPG Key using the defaults:
 gpg --full-generate-key
 ```
 
-See the Key:
+Show the Key:
 ```sh
 gpg --list-secret-keys --keyid-format=long
 ```
