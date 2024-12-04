@@ -79,11 +79,11 @@ vscie dbaeumer.vscode-eslint
 vscie eamodio.gitlens
 vscie EditorConfig.EditorConfig
 vscie Prisma.prisma
-vscie WallabyJs.quokka-vscode
 vscie wix.vscode-import-cost
 
 ## if you have wallaby license
 vscie WallabyJs.wallaby-vscode
+vscie WallabyJs.quokka-vscode
 
 ## in case you don't have wallaby license
 vscie Orta.vscode-jest
