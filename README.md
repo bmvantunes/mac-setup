@@ -89,11 +89,6 @@ vscie WallabyJs.wallaby-vscode
 vscie Orta.vscode-jest
 ```
 
-## Install [responsively](https://responsively.app/)
-```sh
-brew install --cask responsively
-```
-
 ## Install Docker
 ```sh
 https://docs.docker.com/desktop/mac/install/
